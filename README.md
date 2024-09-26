@@ -27,7 +27,7 @@
 | 1 | Pertemuan 1 p5.js | Melihat daftar isi sebuah direktori dengan perintah **ls -l** |
 
 # SCREENSHOT PROGRAM
-YouTube(![image](https://github.com/user-attachments/assets/caf87e8d-310c-4d47-9f19-7880d60ad3a1)
+(![image](https://github.com/user-attachments/assets/caf87e8d-310c-4d47-9f19-7880d60ad3a1)
 )
 
 | Alfart - Task - Matakuliah Grafika Komputer |
