@@ -1,2 +1,5 @@
 # Data Diri
-Tugas pertemuan 1 p5.js
+
+NIM         |22104410015
+NAMA        |MUHAMMAD ROHID AL FARUQ
+
